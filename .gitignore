@@ -1,0 +1,3 @@
+*.local
+.vim/bundle/*
+.vim/.netrwhist
