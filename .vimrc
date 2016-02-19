@@ -3,7 +3,7 @@ syntax on
 set backspace=indent,eol,start
 set number
 set background=dark
-"colorscheme solarized
+colorscheme solarized
 set nofoldenable
 set backspace=indent,eol,start
 set whichwrap=b,s,<,>,[,]
